@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IAs Generativas: O Futuro é Agora
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto consiste na utilização de uma IA generativa para produzir um video realista
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* ChatGPT: Para roteirização
+* VidnozAI: Para sintetização de voz, geração de avatar virtual e produção do video
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+* A ideia além de produzir o conteudo utilizando IAs generativas foi de fazer uma sátira.<br>
+* Utilizando o ChatGPT e a ideia do tema principal "Venda de Cursos Online", direcionei a <br> 
+roteirização através de um prompt bem descritivo.<br>
+* Com o roteiro pronto, no site da VidnozAI foi realizada o restante das etapas de construção<br>
+do video, lá tinhas todos os recursos de construção de avatar, ediçao de voz e video gerados por IA
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Video do Projeto](https://share.vidnoz.com/aivideo?id=4562883)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Foi uma otima experiência testar IAs generativas. Me faz refletir sobre todo o potencial de revolucionar a sociedade como um todo
